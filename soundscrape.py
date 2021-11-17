@@ -15,8 +15,8 @@ browser = webdriver.Chrome("C:\\Users\\Joao\Desktop\\Proggraming\\SoundScrape\\c
 browser.get("https://soundcloud.com")
 
 # main menu
-print("\n\Bem vindo ao Sound Scraper do Python!")
-print("\nExplore os Top Charts de todos os gêneros, pesquise por musicas, artistas e playlists!")
+print("\nWelcome to Python SoundsCrape! ")
+print("\nExplore all genres on the topcharts, search for musics, artists and playlists!")
 
 while True:
     print("Menu")
